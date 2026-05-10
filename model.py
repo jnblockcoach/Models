@@ -149,14 +149,14 @@ class SimpleChatModel(nn.Module):
 
 
 class Config:
-    """模型配置 - 约1M参数"""
+    """模型配置"""
     def __init__(self):
-        self.embedding_dim = 128   # 词嵌入维度
+        self.embedding_dim = 256   # 词嵌入维度
         self.hidden_dim = 256      # 隐藏层维度
-        self.num_layers = 2       # GRU层数
+        self.num_layers = 3       # GRU层数
         self.dropout = 0.3
         self.batch_size = 128
         self.learning_rate = 0.0005
         self.num_epochs = 100
-        self.max_seq_len = 20
+        self.max_seq_len = 48
         self.train_ratio = 0.9

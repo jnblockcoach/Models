@@ -309,5 +309,5 @@ class LargeScaleCrawler:
 if __name__ == "__main__":
     crawler = LargeScaleCrawler()
     
-    # 生成100000条数据
-    crawler.run(target_count=100000)
+    # 生成50000条数据
+    crawler.run(target_count=50000)
