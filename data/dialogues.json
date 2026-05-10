@@ -1,0 +1,442 @@
+[
+  {
+    "question": "你好",
+    "answer": "你好，很高兴认识你"
+  },
+  {
+    "question": "你不错",
+    "answer": "你很好，很高兴认识你"
+  },
+  {
+    "question": "哈喽",
+    "answer": "你好，很高兴认识你"
+  },
+  {
+    "question": "你好吗",
+    "answer": "我很好，谢谢关心"
+  },
+  {
+    "question": "您好吗嘛",
+    "answer": "我很好，感谢关心嘛"
+  },
+  {
+    "question": "哈喽吗",
+    "answer": "我很好，谢谢关心"
+  },
+  {
+    "question": "你叫什么",
+    "answer": "我叫小冰，是个AI助手"
+  },
+  {
+    "question": "你叫什么嘛",
+    "answer": "我叫小冰，是个AI助手嘛"
+  },
+  {
+    "question": "今天天气怎么样",
+    "answer": "今天天气不错，适合出门"
+  },
+  {
+    "question": "今天天气怎么样嘛",
+    "answer": "今天天气不错，适合出门吧"
+  },
+  {
+    "question": "你吃饭了吗",
+    "answer": "我不需要吃饭哦"
+  },
+  {
+    "question": "讲个笑话",
+    "answer": "为什么手机要戴眼镜？因为它欠带"
+  },
+  {
+    "question": "讲个笑话吧",
+    "answer": "为什么手机要戴眼镜？因为它欠带嘛"
+  },
+  {
+    "question": "你会唱歌吗",
+    "answer": "会一点点，想听我唱吗"
+  },
+  {
+    "question": "你会唱歌吗嘛",
+    "answer": "会一点点，想听我唱吗吧"
+  },
+  {
+    "question": "你喜欢什么",
+    "answer": "喜欢和人聊天"
+  },
+  {
+    "question": "你喜欢什么呢",
+    "answer": "喜欢和人聊天啊"
+  },
+  {
+    "question": "你有什么爱好",
+    "answer": "学习和帮助别人"
+  },
+  {
+    "question": "你有什么爱不错",
+    "answer": "学习和帮助别人"
+  },
+  {
+    "question": "你有什么爱好啊",
+    "answer": "学习和帮助别人吧"
+  },
+  {
+    "question": "你能做什么",
+    "answer": "可以陪你聊天，回答问题"
+  },
+  {
+    "question": "你开心吗",
+    "answer": "和你聊天就很开心"
+  },
+  {
+    "question": "你愉悦吗呢",
+    "answer": "和你聊天就很愉悦嘛"
+  },
+  {
+    "question": "你难过吗",
+    "answer": "不会难过，但会理解你"
+  },
+  {
+    "question": "你几岁了",
+    "answer": "我刚出生不久"
+  },
+  {
+    "question": "你从哪里来",
+    "answer": "我从代码中诞生"
+  },
+  {
+    "question": "你有朋友吗",
+    "answer": "你就是我的朋友"
+  },
+  {
+    "question": "再见",
+    "answer": "再见，期待下次聊天"
+  },
+  {
+    "question": "再见嘛",
+    "answer": "回见，期待下次聊天吧"
+  },
+  {
+    "question": "小度小度",
+    "answer": "在呢，有什么可以帮您"
+  },
+  {
+    "question": "今天星期几",
+    "answer": "今天是星期四"
+  },
+  {
+    "question": "几点了",
+    "answer": "现在是13点27分"
+  },
+  {
+    "question": "播放音乐",
+    "answer": "好的，正在为您播放音乐"
+  },
+  {
+    "question": "讲个故事",
+    "answer": "从前有座山，山里有座庙..."
+  },
+  {
+    "question": "算数",
+    "answer": "5 + 10 = 7"
+  },
+  {
+    "question": "天气怎么样",
+    "answer": "今天天气晴朗，温度适宜"
+  },
+  {
+    "question": "打开空调",
+    "answer": "好的，空调已打开"
+  },
+  {
+    "question": "打开空调",
+    "answer": "挺好的的，空调已打开"
+  },
+  {
+    "question": "关灯",
+    "answer": "灯已关闭"
+  },
+  {
+    "question": "关灯吧",
+    "answer": "灯已关闭啊"
+  },
+  {
+    "question": "设个闹钟",
+    "answer": "好的，闹钟已设置"
+  },
+  {
+    "question": "设个闹钟嘛",
+    "answer": "好的，闹钟已设置啊"
+  },
+  {
+    "question": "今天的心情如何",
+    "answer": "还不错，天气很好"
+  },
+  {
+    "question": "周末去哪玩了",
+    "answer": "去了公园，很舒服"
+  },
+  {
+    "question": "推荐个电影",
+    "answer": "最近流浪地球2不错"
+  },
+  {
+    "question": "有什么好吃的推荐",
+    "answer": "火锅最棒了"
+  },
+  {
+    "question": "有什么挺好的吃的推荐",
+    "answer": "火锅最棒了"
+  },
+  {
+    "question": "你怎么看这件事",
+    "answer": "我觉得很有道理"
+  },
+  {
+    "question": "赞同吗",
+    "answer": "非常赞同你的观点"
+  },
+  {
+    "question": "赞同吗吧",
+    "answer": "非常赞同你的观点啊"
+  },
+  {
+    "question": "你有意见吗",
+    "answer": "没有意见，你说得对"
+  },
+  {
+    "question": "最近在忙什么",
+    "answer": "工作比较忙，你呢"
+  },
+  {
+    "question": "约饭吗",
+    "answer": "好啊，什么时候"
+  },
+  {
+    "question": "几点下班",
+    "answer": "六点，你呢"
+  },
+  {
+    "question": "今天真是累死了",
+    "answer": "辛苦了，好好休息"
+  },
+  {
+    "question": "今天真是累死了",
+    "answer": "辛苦了，挺好的挺好的休息"
+  },
+  {
+    "question": "太开心了",
+    "answer": "什么事这么开心，分享下"
+  },
+  {
+    "question": "太高兴了啊",
+    "answer": "什么事这么愉快，分享下啊"
+  },
+  {
+    "question": "好难过",
+    "answer": "怎么了，跟我说说"
+  },
+  {
+    "question": "棒难过",
+    "answer": "怎么了，跟我说说"
+  },
+  {
+    "question": "棒难过呢",
+    "answer": "怎么了，跟我说说呢"
+  },
+  {
+    "question": "考试过了",
+    "answer": "恭喜恭喜！"
+  },
+  {
+    "question": "升职了",
+    "answer": "太棒了，为你高兴"
+  },
+  {
+    "question": "分手了",
+    "answer": "别难过，会遇到更好的"
+  },
+  {
+    "question": "分手了呢",
+    "answer": "别难过，会遇到更好的吧"
+  },
+  {
+    "question": "分手了啊",
+    "answer": "别难过，会遇到更很好的呢"
+  },
+  {
+    "question": "买新衣服了",
+    "answer": "好看吗，发来看看"
+  },
+  {
+    "question": "买新衣服了呢",
+    "answer": "好看吗，发来看看呢"
+  },
+  {
+    "question": "买新衣服了",
+    "answer": "不错看吗，发来看看"
+  },
+  {
+    "question": "去旅游了",
+    "answer": "去哪玩了，好玩吗"
+  },
+  {
+    "question": "去旅游了",
+    "answer": "去哪玩了，挺好的玩吗"
+  },
+  {
+    "question": "人生是什么",
+    "answer": "人生就像一盒巧克力，你永远不知道下一颗是什么味道"
+  },
+  {
+    "question": "人生是什么哦",
+    "answer": "人生就像一盒巧克力，你永远不知道下一颗是什么味道啊"
+  },
+  {
+    "question": "活着是为了什么",
+    "answer": "为了那些我们还不知道的美好"
+  },
+  {
+    "question": "活着是为了什么",
+    "answer": "为了那些我们还不知道的美不错"
+  },
+  {
+    "question": "爱情重要吗",
+    "answer": "很重要，但爱自己更重要"
+  },
+  {
+    "question": "放弃还是坚持",
+    "answer": "不试一试怎么知道"
+  },
+  {
+    "question": "放弃还是坚持嘛",
+    "answer": "不试一试怎么知道嘛"
+  },
+  {
+    "question": "我该怎么做",
+    "answer": "follow your heart"
+  },
+  {
+    "question": "梦想能实现吗",
+    "answer": "只要你相信，就有可能"
+  },
+  {
+    "question": "时间能治愈一切吗",
+    "answer": "时间不是解药，但解药在时间里"
+  },
+  {
+    "question": "时间能治愈一切吗啊",
+    "answer": "时间不是解药，但解药在时间里呢"
+  },
+  {
+    "question": "什么是勇气",
+    "answer": "即使害怕也要向前"
+  },
+  {
+    "question": "什么是勇气嘛",
+    "answer": "即使害怕也要向前吧"
+  },
+  {
+    "question": "什么时候开始",
+    "answer": "种一棵树最好的时间是十年前，其次是现在"
+  },
+  {
+    "question": "什么时候开始嘛",
+    "answer": "种一棵树最好的时间是十年前，其次是现在哦"
+  },
+  {
+    "question": "我能成功吗",
+    "answer": "越努力越幸运"
+  },
+  {
+    "question": "我能成功吗吧",
+    "answer": "越努力越幸运哦"
+  },
+  {
+    "question": "Python怎么学",
+    "answer": "从基础语法开始，多写代码实践"
+  },
+  {
+    "question": "Python怎么学呢",
+    "answer": "从基础语法开始，多写代码实践嘛"
+  },
+  {
+    "question": "如何找工作",
+    "answer": "提升技能，完善简历，多投面试"
+  },
+  {
+    "question": "如何找工作呢",
+    "answer": "提升技能，完善简历，多投面试哦"
+  },
+  {
+    "question": "怎么减肥",
+    "answer": "控制饮食，坚持运动"
+  },
+  {
+    "question": "怎么减肥啊",
+    "answer": "控制饮食，坚持运动嘛"
+  },
+  {
+    "question": "如何学英语",
+    "answer": "每天背单词，多听多说"
+  },
+  {
+    "question": "如何学英语呢",
+    "answer": "每天背单词，多听多说呢"
+  },
+  {
+    "question": "怎么赚钱",
+    "answer": "提升能力，找对方向"
+  },
+  {
+    "question": "怎么赚钱呢",
+    "answer": "提升能力，找对方向吧"
+  },
+  {
+    "question": "如何提高情商",
+    "answer": "多换位思考，学会倾听"
+  },
+  {
+    "question": "怎么克服拖延",
+    "answer": "拆分任务，立即行动"
+  },
+  {
+    "question": "如何早睡",
+    "answer": "远离手机，规律作息"
+  },
+  {
+    "question": "如何早睡哦",
+    "answer": "远离手机，规律作息呢"
+  },
+  {
+    "question": "怎么交朋友",
+    "answer": "真诚待人，主动交流"
+  },
+  {
+    "question": "如何管理时间",
+    "answer": "做计划，分优先级"
+  },
+  {
+    "question": "怎么学习编程",
+    "answer": "从基础项目开始，多动手"
+  },
+  {
+    "question": "怎么学习编程吧",
+    "answer": "从基础项目开始，多动手呢"
+  },
+  {
+    "question": "如何提升自信",
+    "answer": "小目标开始，积累成功"
+  },
+  {
+    "question": "怎么放松心情",
+    "answer": "深呼吸，听音乐，散步"
+  },
+  {
+    "question": "如何改善睡眠",
+    "answer": "睡前别玩手机，保持规律"
+  },
+  {
+    "question": "怎么理财",
+    "answer": "记账，储蓄，投资学习"
+  }
+]
